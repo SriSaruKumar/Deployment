@@ -4,7 +4,7 @@ import { useNavigate } from 'react-router-dom';
 
 // Define the API base URL
 const API_BASE_URL = process.env.NODE_ENV === 'production' 
-    ? 'https://leave-management-system-5wch.onrender.com' 
+    ? 'https://leave-management-1nk2.onrender.com' 
     : 'http://localhost:10000'; 
 
 const AdminPanel = () => {
